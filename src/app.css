@@ -19,7 +19,7 @@ button {
   line-height: 2.5rem;
   margin-left: 0.2em;
   margin-right: 0.5em;
-  background-color: #77ab8e;
+  background-color: #a3be8c;
   color: white;
   border-radius: 50%;
 }
@@ -36,9 +36,9 @@ button {
 
 .habit-increase,
 .habit-decrease {
-  color: #fdab11;
+  color: #ebcb8b;
 }
 
 .habit-delete {
-  color: #e55e7d;
+  color: #bf616a;
 }
